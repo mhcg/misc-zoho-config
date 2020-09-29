@@ -1,0 +1,13 @@
+// Updates a Deal Name to something standard.
+//
+// Expected to be used from Automation->Workflow on Create (and optional Edit) of a Deal.
+//
+// Requires arguments:
+//   dealID - Deal_ID from the Deal. 
+//   dealName - existing dealname.
+//   orgName - Org name from the deal.
+//   typeName - type (e.g. Type field from the deal or similar).
+dealName = dealName + " for " + orgName + " (" + typeName + ")";
+updateMap = Map();
+updateMap.put("Deal_Name",dealName);
+update = zoho.crm.updateRecord("Deals",dealID.toLong(),updateMap);

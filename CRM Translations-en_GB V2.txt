@@ -1,0 +1,42 @@
+Language_Code:en_GB
+
+Field.Leads.Street=Street
+Field.Leads.City=Town
+Field.Leads.State=County
+Field.Leads.Zip_Code=Postcode
+Field.Leads.Country=Country
+Field.Leads.Designation=Job Title
+
+Field.Contacts.Mailing_Street=Mailing Street
+Field.Contacts.Other_Street=Other Street
+Field.Contacts.Mailing_City=Mailing Town
+Field.Contacts.Other_City=Other Town
+Field.Contacts.Mailing_State=Mailing County
+Field.Contacts.Other_State=Other County
+Field.Contacts.Mailing_Zip=Mailing Postcode
+Field.Contacts.Other_Zip=Other Postcode
+Field.Contacts.Mailing_Country=Mailing Country
+Field.Contacts.Other_Country=Other Country
+Field.Contacts.Title=Job Title
+
+Field.Accounts.Billing_Street=Billing Street
+Field.Accounts.Shipping_Street=Shipping Street
+Field.Accounts.Billing_City=Billing Town
+Field.Accounts.Shipping_City=Shipping Town
+Field.Accounts.Billing_State=Billing County
+Field.Accounts.Shipping_State=Shipping ​County
+Field.Accounts.Billing_Code=Billing Postcode
+Field.Accounts.Shipping_Code=Shipping Postcode
+Field.Accounts.Billing_Country=Billing Country
+Field.Accounts.Shipping_Country=Shipping Country
+
+Field.Vendors.Street=Street
+Field.Vendors.City=Town
+Field.Vendors.State=County
+Field.Vendors.Zip_Code=Postcode
+Field.Vendors.Country=Country
+
+Field.Events.ZIP_Code=Postcode
+
+Field.Products.Tax=VAT
+Field.Products.Taxable=Vatable
